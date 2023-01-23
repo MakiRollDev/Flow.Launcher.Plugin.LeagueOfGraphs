@@ -1,0 +1,12 @@
+{
+    "ID": "C7A9D155-B9F3-4062-A01F-9FE28FDF13E2",
+    "ActionKeyword": "*",
+    "Name": "LeagueOfGraphs",
+    "Description": "League of Graphs integration for Flow",
+    "Author": "MakiRollDev",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/MakiRollDev/Flow.Launcher.Plugin.LeagueOfGraphs",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.LeagueOfGraphs.dll"
+}
